@@ -1,3 +1,10 @@
+<!Doctype html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>PHP functions</title>
+	</head>
+	<body>
 
 
 <?php
@@ -56,6 +63,9 @@ function printListofStudentNames(){
 		echo "<br/>";
 	};
 }
+?>
+</body>
+</html>
 
 
 
